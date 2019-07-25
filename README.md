@@ -3,5 +3,5 @@ The purpose of this tool is to collaborate on and document and the practices and
 
 It’s divided into three sections:
 - [On Humans](https://github.com/pglevy/bixal-uxd-team-handbook/blob/master/humans.md)
-- On Machines
-- On Administration
+- [On Machines](https://github.com/pglevy/bixal-uxd-team-handbook/blob/master/machines.md)
+- [On Administration](https://github.com/pglevy/bixal-uxd-team-handbook/blob/master/administration.md)
