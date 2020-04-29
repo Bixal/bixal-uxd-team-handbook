@@ -6,7 +6,7 @@ It can be used in the following ways:
 - Understand what skills are needed to do a particular job.
 - Identify skills needed to progress to the next level within a job.
 - Assess progression of skill development as part of performance reviews.
-- Create job ads to recruit UX Design jobs.
+- Create job ads to recruit for UX Design jobs.
 - Plan staffing needs for current and upcoming projects.
 
 ## What's included
