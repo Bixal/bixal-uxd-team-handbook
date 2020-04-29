@@ -10,10 +10,10 @@ It can be used in the following ways:
 - Plan staffing needs for current and upcoming projects.
 
 ## What's included
-- [UX Designer Role Overview](capability-framework/ux-designer-role-overview.md)
-- [UX Researcher Role Overview](capability-framework/ux-researcher-role-overview.md)
-- [UX Designer Level Matrix](capability-framework/ux-designer-level-matrix.md)
-- [Skill Levels](capability-framework/skill-levels.md)
+- [UX Designer Role Overview](ux-designer-role-overview.md)
+- [UX Researcher Role Overview](ux-researcher-role-overview.md)
+- [UX Designer Level Matrix](ux-designer-level-matrix.md)
+- [Skill Levels](skill-levels.md)
 
 For more details on the terminology used throughout this framework, see the [Glossary](glossary.md).
 
