@@ -11,9 +11,10 @@ It can be used in the following ways:
 
 ## What's included
 - [UX Designer Role Overview](ux-designer-role-overview.md)
-- [UX Researcher Role Overview](ux-researcher-role-overview.md)
 - [UX Designer Level Matrix](ux-designer-level-matrix.md)
-- [Skill Levels](skill-levels.md)
+- [UX Researcher Role Overview](ux-researcher-role-overview.md)
+- [UX Researcher Level Matrix](ux-researcher-level-matrix.md)
+- [Skill Level Descriptions](skill-levels.md)
 
 For more details on the terminology used throughout this framework, see the [Glossary](glossary.md).
 
