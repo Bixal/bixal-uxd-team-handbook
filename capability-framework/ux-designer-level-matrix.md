@@ -49,7 +49,7 @@ See [role description for (Mid-Level) UX Designer](#) (Coming later)
 | Prototyping | Expert |
 | Strategic thinking | Practitioner |
 | Human-centered | Expert |
-| Inclusive design mindset | Expert |
+| Inclusive design mindset | Practitioner |
 
 See [role description for Senior UX Designer](#) (Coming later)
 
