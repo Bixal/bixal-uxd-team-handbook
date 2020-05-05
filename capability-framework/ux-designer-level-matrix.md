@@ -53,4 +53,21 @@ See [role description for (Mid-Level) UX Designer](#) (Coming later)
 
 See [role description for Senior UX Designer](#) (Coming later)
 
+## Lead UX Designer
+
+| Skill | Level |
+| --- | --- |
+| Agile mindset | Expert |
+| Communication | Expert |
+| Team collaboration | Practitioner |
+| Evidence- and context-based design | Expert |
+| Working within constraints | Practitioner |
+| Leadership and guidance | Expert |
+| Prototyping | Expert |
+| Strategic thinking | Practitioner |
+| Human-centered | Expert |
+| Inclusive design mindset | Practitioner |
+
+See [role description for Senior UX Designer](#) (Coming later)
+
 [Back to About this framework](about-this-framework.md)
