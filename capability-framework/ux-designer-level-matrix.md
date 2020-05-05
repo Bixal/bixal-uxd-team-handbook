@@ -66,7 +66,7 @@ See [role description for Senior UX Designer](#) (Coming later)
 | Prototyping | Expert |
 | Strategic thinking | Practitioner |
 | Human-centered | Expert |
-| Inclusive design mindset | Practitioner |
+| Inclusive design mindset | Expert |
 
 See [role description for Senior UX Designer](#) (Coming later)
 
