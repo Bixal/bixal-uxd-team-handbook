@@ -14,7 +14,7 @@ This matrix outlines the combination of [skill levels](skill-levels.md) that def
 | Technical understanding | Awareness |
 | Human-centered and agile practices | Awareness |
 
-See [role description for Junior UX Researcher](#) (Coming later)
+See [role description for Junior UX Researcher](junior-ux-researcher-role-level.md)
 
 ## (Mid-Level) UX Researcher
 
@@ -28,7 +28,7 @@ See [role description for Junior UX Researcher](#) (Coming later)
 | Technical understanding | Working |
 | Human-centered and agile practices | Working |
 
-See [role description for (Mid-Level) UX Researcher](#) (Coming later)
+See [role description for (Mid-Level) UX Researcher](mid-level-ux-researcher-role-level.md)
 
 ## Senior UX Researcher
 
@@ -42,7 +42,7 @@ See [role description for (Mid-Level) UX Researcher](#) (Coming later)
 | Technical understanding | Practitioner |
 | Human-centered and agile practices | Practitioner |
 
-See [role description for Senior UX Researcher](#) (Coming later)
+See [role description for Senior UX Researcher](senior-ux-researcher-role-level.md)
 
 ## Lead UX Researcher
 
@@ -56,6 +56,6 @@ See [role description for Senior UX Researcher](#) (Coming later)
 | Technical understanding | Practitioner |
 | Human-centered and agile practices | Practitioner |
 
-See [role description for Lead UX Researcher](#) (Coming later)
+See [role description for Lead UX Researcher](lead-ux-researcher-role-level.md)
 
 [Back to About this framework](about-this-framework.md)

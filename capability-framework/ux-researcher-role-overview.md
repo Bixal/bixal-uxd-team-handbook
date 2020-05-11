@@ -26,4 +26,11 @@ You will need the following skills for this role, although the level of expertis
 
 - **Human-centered and agile practices**. You understand human-centered design practices and know how to embed them into an agile workflow to deliver timely findings. You can work in an open, iterative and collaborative way in a multidisciplinary team.
 
+## Levels for this role
+* [Junior](junior-ux-researcher-role-level.md)
+* [Mid-Level](mid-level-ux-researcher-role-level.md)
+* [Senior](senior-ux-researcher-role-level.md)
+* [Lead](lead-ux-researcher-role-level.md)
+
+
 [Back to About this framework](about-this-framework.md)
