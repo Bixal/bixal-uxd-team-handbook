@@ -21,7 +21,6 @@
 
           <h1 id="project_title">{{ site.title | default: site.github.repository_name }}</h1>
           <h2 id="project_tagline">{{ site.description | default: site.github.project_tagline }}</h2>
-          <p><a href="humans.html">On Humans</a></p>
 
           {% if site.show_downloads %}
             <section id="downloads">
@@ -35,6 +34,7 @@
     <!-- MAIN CONTENT -->
     <div id="main_content_wrap" class="outer">
       <section id="main_content" class="inner">
+        <p><a href="humans.html">On Humans</a> / <a href="machines.html">On Machines</a> / <a href="capability-framework/about-this-framework.html">Capability Framework</a></p>
         {{ content }}
       </section>
     </div>
