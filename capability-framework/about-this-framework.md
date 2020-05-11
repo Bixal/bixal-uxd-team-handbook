@@ -1,4 +1,4 @@
-# About this framework
+# Capability Framework
 
 The purpose of this framework is to articulate the descriptions and expectations of various jobs within the UX Design practice area.
 
