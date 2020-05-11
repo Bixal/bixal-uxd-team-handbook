@@ -1,5 +1,5 @@
 # (Mid-Level) UX Designer Role Level
-This is a description of the UX Designer role tailored to the Mid level and what the application of the skills looks like at this level.
+This is a description of the [UX Designer role](ux-designer-role-overview.md) tailored to the Mid level and what the application of the skills looks like at this level.
 
 ## General expectations
 At this level, you should be able to do the following:
