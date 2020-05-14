@@ -10,11 +10,9 @@ It can be used in the following ways:
 - Plan staffing needs for current and upcoming projects.
 
 ## What's included
-- [UX Designer Role Overview](ux-designer-role-overview.md)
-  - Descriptions for each role level
+- [UX Designer Role Overview and Level Descriptions](ux-designer-role-overview.md)
 - [UX Designer Level Matrix](ux-designer-level-matrix.md)
-- [UX Researcher Role Overview](ux-researcher-role-overview.md)
-  - Descriptions for each role level
+- [UX Researcher Role Overview and Level Descriptions](ux-researcher-role-overview.md)
 - [UX Researcher Level Matrix](ux-researcher-level-matrix.md)
 - [Skill Level Descriptions](skill-levels.md)
 
