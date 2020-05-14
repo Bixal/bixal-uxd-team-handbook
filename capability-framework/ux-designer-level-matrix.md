@@ -17,7 +17,7 @@ This matrix outlines the combination of [skill levels](skill-levels.md) that def
 | Human-centered | Working |
 | Inclusive design mindset | Awareness |
 
-See [role description for Junior UX Designer](#) (Coming later)
+See [role description for Junior UX Designer](junior-ux-designer-role-level.md)
 
 ## (Mid-Level) UX Designer
 
@@ -34,7 +34,7 @@ See [role description for Junior UX Designer](#) (Coming later)
 | Human-centered | Practitioner |
 | Inclusive design mindset | Practitioner |
 
-See [role description for (Mid-Level) UX Designer](#) (Coming later)
+See [role description for (Mid-Level) UX Designer](mid-level-ux-designer-role-level.md)
 
 ## Senior UX Designer
 
@@ -51,7 +51,7 @@ See [role description for (Mid-Level) UX Designer](#) (Coming later)
 | Human-centered | Expert |
 | Inclusive design mindset | Practitioner |
 
-See [role description for Senior UX Designer](#) (Coming later)
+See [role description for Senior UX Designer](senior-ux-designer-role-level.md)
 
 ## Lead UX Designer
 
@@ -68,6 +68,6 @@ See [role description for Senior UX Designer](#) (Coming later)
 | Human-centered | Expert |
 | Inclusive design mindset | Expert |
 
-See [role description for Senior UX Designer](#) (Coming later)
+See [role description for Senior UX Designer](lead-ux-designer-role-level.md)
 
 [Back to About this framework](about-this-framework.md)
