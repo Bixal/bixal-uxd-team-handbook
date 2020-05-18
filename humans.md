@@ -4,7 +4,7 @@
 
 Quick daily check-ins help us stay connected and share ideas as we work across different projects.
 
-- We use [Slack](http://bixaluxdesign.slack.com) for automated daily and weekly check-ins.
+- We use [Teams](https://teams.microsoft.com/l/channel/19%3a0e4cd794b0154a3884ab3cf1bed2570a%40thread.skype/General?groupId=7e14dfc1-efbb-4e24-b2b3-404aff013b03&tenantId=31448150-d5ea-4e0e-bf63-51be057306d3) for automated daily and weekly check-ins.
 - Try to respond in a timely manner (especially the daily ones), so others have time to see responses before heading out for the day.
 - Include links to work in progress as much as possible. This gives everyone a sense of what others are working on.
 
