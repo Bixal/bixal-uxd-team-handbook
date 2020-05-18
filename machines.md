@@ -39,12 +39,10 @@ These are the primary tools we use that enable us to more easily share and colla
 These are some other tools we may use depending on the project team (or personal preference). Free free to try new things, but keep in mind the ability to include others for co-creation.
 
 - [Bixal Sketch Template](https://github.com/pglevy/bixal-sketch-template): a boilerplate file with type, color, grid, and components for new projects in Sketch.
-- Slack: some project team communication (and automated check-ins for us).
-- Zoom: full-featured web conferencing.
-- UberConference: web conferencing with audio and screen sharing (no video).
 - Trello: collaborative lists.
 - Github: collaborative text, code, and other things.
 - CodePen: quick frontend prototyping.
 - Optimal Workshop: user research tools like card sorting and tree jacking.
 - Evernote/Skitch: notes and screenshots.
 - Dropbox Paper: notes and documents.
+- Webflow: web-based, interactive design, prototyping, and development.
