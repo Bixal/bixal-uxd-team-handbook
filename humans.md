@@ -37,10 +37,13 @@ By our powers combined…
 
 ## Location
 
-Most of us work from more than one location over the course of a week. It can be helpful to know where are others are going to be for planning things like meeting and workshops, but try to maintain a “remote-first” mindset and plan accordingly.
+We are essentially a fully-distributed company now. Since the default is "working from home" until further notice, we no longer need to do weekly updates on our location in the Admin channel.
 
-- As early as possible at the beginning of the week, post your planned work locations in the Bixal/Admin channel in Teams.
-- If something changes, reply to your original post so it bumps it to the top of list.
+It may still be helpful in a couple situations, however:
+- If you have an appointment or PTO that you're going to be out for.
+- If something changes to your original post.
+
+Otherwise, no need to tell the whole company you're WFH all week every week. 😬
 
 ## Meetings
 
