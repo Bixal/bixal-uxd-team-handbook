@@ -25,7 +25,8 @@ Design requires time to think and make things. Set some reasonable boundaries to
 By our powers combined…
 
 - Every Tuesday, we get together from noon to one.
-- It’s preferable to be in the Fairfax office for some face time with the team, but not required.
+- Each week it's [someone's responsibility to facilitate an activity or presentation](https://teams.microsoft.com/l/entity/com.microsoft.teamspace.tab.wiki/tab::3c9e4090-dfc4-4f29-b62e-8248637176d8?context=%7B%22subEntityId%22%3A%22%7B%5C%22pageId%5C%22%3A10%2C%5C%22origin%5C%22%3A2%7D%22%2C%22channelId%22%3A%2219%3Ae9789c9680aa4e948de9f5a97ecb878c%40thread.skype%22%7D&tenantId=31448150-d5ea-4e0e-bf63-51be057306d3).
+- If it's your week and you can't make it, find someone to swap with.
 
 ## Goals, Performance, and Paths
 
