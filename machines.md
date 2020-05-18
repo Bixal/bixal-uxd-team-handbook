@@ -33,6 +33,7 @@ These are the primary tools we use that enable us to more easily share and colla
 - InVision Freehand: a digital whiteboard we use for just about anything: capturing inspiration, sketching, making flows, marking up screens, collaborating on ideation sessions, etc.
 - InVision Boards: a nice-looking tool for collecting and presenting images, colors, and notes. We use them for things like mood boards and project scrapbooks.
 - Miro: a collaboration tool we're starting to use more. More features and capabilities than Freehand.
+- Otter.ai: audio transcription tool for user research.
 
 ## Tools and Services (Unofficial)
 
