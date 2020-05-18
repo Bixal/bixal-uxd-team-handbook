@@ -27,11 +27,12 @@ First, lose no data. (Second, email no attachments.)
 These are the primary tools we use that enable us to more easily share and collaborate on work.
 
 - G Suite: this is primarily used by the Design team for collaboration.
-- Sharepoint: this is our quality assurance program system of record. 
+- Sharepoint: this is our quality assurance program system of record.
 - Sketch: this is our main design tool.
 - InVision Prototype: this is our main prototyping tool.
 - InVision Freehand: a digital whiteboard we use for just about anything: capturing inspiration, sketching, making flows, marking up screens, collaborating on ideation sessions, etc.
 - InVision Boards: a nice-looking tool for collecting and presenting images, colors, and notes. We use them for things like mood boards and project scrapbooks.
+- Miro: a collaboration tool we're starting to use more. More features and capabilities than Freehand.
 
 ## Tools and Services (Unofficial)
 
