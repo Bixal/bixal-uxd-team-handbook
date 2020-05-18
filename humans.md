@@ -22,7 +22,7 @@ Design requires time to think and make things. Set some reasonable boundaries to
 
 ## Design Team Sync-Up
 
-By our powers combined… 
+By our powers combined…
 
 - Every Tuesday, we get together from noon to one.
 - It’s preferable to be in the Fairfax office for some face time with the team, but not required.
@@ -33,13 +33,13 @@ By our powers combined…
 
 - On our team, we set goals for ourselves, either by quarter or by year.
 - At Bixal, there is a yearly performance review process.
-- We haven’t yet defined what career paths look like for us at Bixal. More to come… 
+- We haven’t yet defined what career paths look like for us at Bixal. More to come…
 
 ## Location
 
 Most of us work from more than one location over the course of a week. It can be helpful to know where are others are going to be for planning things like meeting and workshops, but try to maintain a “remote-first” mindset and plan accordingly.
 
-- As early as possible at the beginning of the week, post your planned work locations in the Bixal/Admin channel in Teams. 
+- As early as possible at the beginning of the week, post your planned work locations in the Bixal/Admin channel in Teams.
 - If something changes, reply to your original post so it bumps it to the top of list.
 
 ## Meetings
@@ -64,9 +64,17 @@ One-on-ones ensure that you have a dedicated, recurring opportunity to sync-up w
 - It’s not necessarily a “what are you working on” check-in, though feel free to raise topics relating to projects and project work.
 - If a scheduling conflict comes up, try to reschedule instead of skipping it.
 
+## Paid Time Off
+
+We have an "unlimited PTO policy." Don't forget to use it!
+
+See the Employee Handbook for the full details and procedures. Just a couple of things to add here:
+- Remember to add your Out Of Office invites to the Design calendar for visibility. You can do this by inviting Design (in our company directory) to the invite on your calendar. (Nobody gets these emails. Please don't invite others to your PTO unless you _really_ want them attend.)
+- Put a reminder in the Admin channel in Teams to remind people.
+
 ## Working with the Project Team
 
-We value co-create and collaboration, so we try to think about how we can incorporate the whole project team as much as possible. 
+We value co-create and collaboration, so we try to think about how we can incorporate the whole project team as much as possible.
 
 - Get visual artifacts into InVision as quickly as possible and encourage feedback there.
     - This obviously includes screens but may also includes things like site maps, task flows, journey maps, service blueprints, etc.
