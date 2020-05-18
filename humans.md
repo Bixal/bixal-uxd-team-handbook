@@ -72,6 +72,12 @@ See the Employee Handbook for the full details and procedures. Just a couple of 
 - Remember to add your Out Of Office invites to the Design calendar for visibility. You can do this by inviting Design (in our company directory) to the invite on your calendar. (Nobody gets these emails. Please don't invite others to your PTO unless you _really_ want them attend.)
 - Put a reminder in the Admin channel in Teams to remind people.
 
+## Timesheets
+
+"where time becomes a loop… where time becomes a loop…"
+
+See section 7 in the Employee Handbook on "Timekeeping Policies." One thing to add: If you make a change after the initial submission, please remind your manager to go back in and re-approve. There are no system reminders that this needs to happen, only urgent emails and chat from people trying to process payroll.
+
 ## Working with the Project Team
 
 We value co-create and collaboration, so we try to think about how we can incorporate the whole project team as much as possible.
