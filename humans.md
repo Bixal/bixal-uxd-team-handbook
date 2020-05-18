@@ -56,6 +56,8 @@ Let’s be good stewards of other people’s time.
 - If there are any links (for example, documents or web conference), make sure they are active so people can click them.
 - When scheduling a meeting, first check people’s calendars. Then, unless they’re already expecting to hear from you, check with them directly if they have time. (Don’t assume an open time slot means it’s yours for the taking.)
 
+To make this easier, consider using the [Mindful Meeting Template](https://pglevy.github.io/mindful-meeting-invitation/site/index.html) or something like it.
+
 ## One-On-Ones
 
 One-on-ones ensure that you have a dedicated, recurring opportunity to sync-up with your manager.
