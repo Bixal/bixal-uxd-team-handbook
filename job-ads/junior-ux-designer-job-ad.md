@@ -1,4 +1,4 @@
-# Junior UX designer
+# Junior UX Designer
 
 ## Who we are
 [default content]
