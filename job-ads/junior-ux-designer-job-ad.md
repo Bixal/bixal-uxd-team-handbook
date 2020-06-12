@@ -41,7 +41,7 @@ Additionally, as a member of the core design team, you may work on more than one
 
 ## Skills
 
-See [role level description](../capbility-framework/junior-ux-designer-role-level.md).
+See [role level description](../capability-framework/junior-ux-designer-role-level.md).
 
 ## Perks/Benefits
 [default content]
