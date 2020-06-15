@@ -3,6 +3,9 @@
 ## Who we are
 [default content]
 
+## Location
+[enter location expectations]
+
 ## What will you do?
 The main purpose of this role is to support the ongoing design and development of *[specific to project or need]*.
 
