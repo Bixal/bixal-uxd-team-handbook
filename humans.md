@@ -12,7 +12,7 @@ Quick daily check-ins help us stay connected and share ideas as we work across d
 
 Design requires time to think and make things. Set some reasonable boundaries to encourage this.
 
-- True emergencies are rare. No one’s life is at stake. Do not feel obligated to respond immediately to every request on every communication channel. (And don’t expect immediate responses from others.)
+- True emergencies are rare. Do not feel obligated to respond immediately to every request on every communication channel. (And don’t expect immediate responses from others.)
 - These are some suggestions for setting reasonable boundaries. They are only suggestions:
     - Set regular times for checking email and chat channels and communicate this to your project teams so they know what to expect. (Disable or quit incoming notifications outside of these time to avoid distractions.)
     - To avoid too much conversation happening in email, try to keep emails to 5 sentences or less. When appropriate, link to a shared document, prototype, or other artifact and have conversation around that.
