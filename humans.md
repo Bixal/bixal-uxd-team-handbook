@@ -62,6 +62,19 @@ Let’s be good stewards of other people’s time.
 
 To make this easier, consider using the [Mindful Meeting Template](https://pglevy.github.io/mindful-meeting-invitation/site/index.html) or something like it.
 
+## Monthly Workshops
+
+Monthly workshops give us a chance to align on our practices across projects and collaborate on artifacts to document them.
+
+- About once a month, we get the UX Team together to do a working session of some sort.
+- Topics vary and it's open to any suggestions.
+- Previous topics include:
+  - How might we capture InVision best practices?
+  - How might we encourage better use of Jira?
+  - Building our version of the Methods toolkit
+  - How might we better consider inclusion and diversity in our practice area?
+
+
 ## One-On-Ones
 
 One-on-ones ensure that you have a dedicated, recurring opportunity to sync-up with your manager.
