@@ -84,7 +84,7 @@ See the Employee Handbook for the full details and procedures. Just a couple of 
 
 See section 7 in the Employee Handbook on "Timekeeping Policies." One thing to add: If you make a change after the initial submission, please remind your manager to go back in and re-approve. There are no system reminders that this needs to happen, only urgent emails and chat from people trying to process payroll.
 
-## UX Team Lunch Hour Huddle
+## Weekly Lunch Hour Huddle
 
 What's for lunch?
 
