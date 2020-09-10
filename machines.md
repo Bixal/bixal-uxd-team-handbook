@@ -1,3 +1,8 @@
+---
+layout: default
+permalink: /machines/
+---
+
 # On Machines
 
 ## Accounts
