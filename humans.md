@@ -1,3 +1,9 @@
+---
+layout: default
+nav: humans
+permalink: /humans/
+---
+
 # On Humans
 
 ## Check-Ins
@@ -34,7 +40,7 @@ By our powers combined…
 
 - On our team, we set goals for ourselves, either by quarter or by year.
 - At Bixal, there is a yearly performance review process.
-- We've started to define what career paths for the UX Design Team looks like in the [Capability Framework](capability-framework/about-this-framework.md).
+- We've started to define what career paths for the UX Design Team looks like in the [Capability Framework](/capabilities/).
 
 ## Location
 

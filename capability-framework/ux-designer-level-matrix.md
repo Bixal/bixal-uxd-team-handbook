@@ -1,3 +1,8 @@
+---
+layout: default
+nav: capabilities
+permalink: /capabilities/ux-designer-level-matrix/
+---
 # UX Designer Level Matrix
 
 This matrix outlines the combination of [skill levels](skill-levels.md) that define the role levels within the [UX Designer role](ux-designer-role-overview.md).
@@ -69,5 +74,3 @@ See [role description for Senior UX Designer](senior-ux-designer-role-level.md)
 | Inclusive design mindset | Expert |
 
 See [role description for Senior UX Designer](lead-ux-designer-role-level.md)
-
-[Back to About this framework](about-this-framework.md)

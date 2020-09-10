@@ -1,3 +1,9 @@
+---
+layout: default
+nav: capabilities
+permalink: /capabilities/ux-researcher-level-matrix/
+---
+
 # UX Researcher Level Matrix
 
 This matrix outlines the combination of [skill levels](skill-levels.md) that define the role levels within the [UX Researcher role](ux-researcher-role-overview.md).
@@ -57,5 +63,3 @@ See [role description for Senior UX Researcher](senior-ux-researcher-role-level.
 | Human-centered and agile practices | Practitioner |
 
 See [role description for Lead UX Researcher](lead-ux-researcher-role-level.md)
-
-[Back to About this framework](about-this-framework.md)
