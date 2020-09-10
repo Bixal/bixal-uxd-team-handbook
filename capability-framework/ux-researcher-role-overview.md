@@ -1,7 +1,7 @@
 ---
 layout: default
 nav: capabilities
-permalink: /capabilities/ux-designer-role-overview/
+permalink: /capabilities/ux-researcher-role-overview/
 ---
 
 # UX Researcher Role Overview

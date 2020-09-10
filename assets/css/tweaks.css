@@ -1,11 +1,44 @@
 @import url(https://use.typekit.net/wfu7yyr.css);
 
 .usa-prose>h1, .usa-prose>h2, .usa-prose>h3, .usa-prose>h4, .usa-prose>h5 {
-  font-family: "novel-pro"
+  font-family: "novel-pro", georgia, serif;
+}
+
+.usa-prose>p, .usa-prose>ul, .usa-prose>table, .usa-nav .usa-accordion {
+  font-family: -apple-system, BlinkMacSystemFont, avenir next, avenir, helvetica neue, helvetica, Ubuntu, roboto, noto, segoe ui, arial, sans-serif !important;
+}
+
+.usa-nav {
+  text-transform: uppercase;
+  letter-spacing: .0625rem;
 }
 
 .brand-banner {
-  background-image: url('asdf');
-  min-height: 64px;
-  height: 64;
+  background-image: url('/assets/images/img-whatwedo-44aa6269e4baa58fdf5431a0aeac5d28.jpg');
+  min-height: 12rem;
+  height: 12rem;
+  margin-top: .5rem;
+}
+
+.brand-banner img {
+  position: absolute;
+  top: 150px;
+  right: 25px;
+}
+
+.usa-logo__text {
+  font-family: "novel-pro", georgia, serif;
+  letter-spacing: .0625rem;
+}
+
+.usa-logo__text::before {
+  background-image: url('/assets/images/img-whatwedo-44aa6269e4baa58fdf5431a0aeac5d28.jpg');
+}
+
+.usa-current:after {
+  background-color: #06c5bc !important;
+}
+
+.usa-navbar {
+  z-index: 100;
 }

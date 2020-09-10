@@ -4,7 +4,8 @@
 <head>
   <meta charset="utf-8" />
   <meta http-equiv="X-UA-Compatible" content="IE=edge" />
-  <title>Home</title>
+  <meta name="description" content="The purpose of this tool is to collaborate on and document and the practices and expectations of the UX Design Team at Bixal."
+  <title>Bixal UX Design Team Handbook</title>
   <link rel="stylesheet" href="{{ '/assets/uswds-2.8.1/css/uswds.min.css' | relative_url }}" />
   <link rel="stylesheet" href="{{ '/assets/css/tweaks.css' | relative_url }}" />
 </head>
@@ -15,7 +16,7 @@
     <div class="usa-nav-container">
       <div class="usa-navbar">
         <div class="usa-logo" id="basic-mega-logo">
-          <em class="usa-logo__text"><a href="/" title="Home" aria-label="Home">UX Design Team Handbook</a></em>
+          <em class="usa-logo__text"><a href="/" title="Home" aria-label="Home">Bixal UX Design Team Handbook</a></em>
         </div>
         <button class="usa-menu-btn">Menu</button>
       </div>
@@ -36,7 +37,9 @@
     </div>
   </header>
 
-<section class="brand-banner"></section>
+<section class="brand-banner">
+  <img src="{{ '/assets/images/b-whatwedo.svg' | relative_url }}" height="240">
+</section>
 
 <div class="usa-section padding-top-2">
 
@@ -44,7 +47,7 @@
     <div class="grid-row">
       <div class="grid-col-fill"></div>
       <div class="grid-col-8 usa-prose">
-        <small class="text-base">{{page.permalink}}</small>
+        <p class="text-base">{{page.permalink}}</p>
         {{ content }}
       </div>
       <div class="grid-col-fill"></div>
