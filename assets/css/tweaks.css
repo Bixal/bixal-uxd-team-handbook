@@ -40,5 +40,5 @@
 }
 
 .usa-navbar {
-  z-index: 100;
+  border-bottom: none;
 }
