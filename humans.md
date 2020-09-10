@@ -1,3 +1,8 @@
+---
+layout: default
+permalink: /humans/
+---
+
 # On Humans
 
 ## Check-Ins
