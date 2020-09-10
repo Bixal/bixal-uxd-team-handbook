@@ -1,3 +1,9 @@
+---
+layout: default
+nav: capabilities
+permalink: /capabilities/
+---
+
 # Capability Framework
 
 The purpose of this framework is to articulate the descriptions and expectations of various jobs within the UX Design practice area.
@@ -10,7 +16,7 @@ It can be used in the following ways:
 - Plan staffing needs for current and upcoming projects.
 
 ## What's included
-- [UX Designer Role Overview and Level Descriptions](ux-designer-role-overview.md)
+- [UX Designer Role Overview and Level Descriptions](/capabilities/ux-designer-role-overview/)
 - [UX Designer Level Matrix](ux-designer-level-matrix.md)
 - [UX Researcher Role Overview and Level Descriptions](ux-researcher-role-overview.md)
 - [UX Researcher Level Matrix](ux-researcher-level-matrix.md)

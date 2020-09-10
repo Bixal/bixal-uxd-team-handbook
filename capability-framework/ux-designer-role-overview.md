@@ -1,3 +1,8 @@
+---
+layout: default
+permalink: /capabilities/ux-designer-role-overview/
+---
+
 # UX Designer Role Overview
 UX designers work out the best way to enable people to interact with services, in terms of both overall flow and at the level of individual design elements.
 
