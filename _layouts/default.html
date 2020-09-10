@@ -24,13 +24,13 @@
         <button class="usa-nav__close"><img src="{{ '/assets/img/close.svg' | relative_url }}" role="img" alt="close"></button>
         <ul class="usa-nav__primary usa-accordion">
           <li class="usa-nav__primary-item">
-            <a class="usa-nav__link{% if page.nav == 'humans' %} usa-current{% endif %}" href="/humans/"><span>On Humans</span></a>
+            <a class="usa-nav__link{% if page.nav == 'humans' %} usa-current{% endif %}" href="{{site.baseurl}}/humans/"><span>On Humans</span></a>
           </li>
           <li class="usa-nav__primary-item">
-            <a class="usa-nav__link{% if page.nav == 'machines' %} usa-current{% endif %}" href="/machines/"><span>On Machines</span></a>
+            <a class="usa-nav__link{% if page.nav == 'machines' %} usa-current{% endif %}" href="{{site.baseurl}}/machines/"><span>On Machines</span></a>
           </li>
           <li class="usa-nav__primary-item">
-            <a class="usa-nav__link{% if page.nav == 'capabilities' %} usa-current{% endif %}" href="/capabilities/"><span>Capabilities</span></a>
+            <a class="usa-nav__link{% if page.nav == 'capabilities' %} usa-current{% endif %}" href="{{site.baseurl}}/capabilities/"><span>Capabilities</span></a>
           </li>
         </ul>
       </nav>
