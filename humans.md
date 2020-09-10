@@ -1,5 +1,6 @@
 ---
 layout: default
+nav: humans
 permalink: /humans/
 ---
 

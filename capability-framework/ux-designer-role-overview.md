@@ -1,5 +1,6 @@
 ---
 layout: default
+nav: capabilities
 permalink: /capabilities/ux-designer-role-overview/
 ---
 
@@ -29,11 +30,3 @@ You will need the following skills for this role, although the level of expertis
 - **Human-centered**. You understand users and can identify who they are and what their needs are, based on evidence. You can translate user stories and propose design approaches or services to meet these needs. You can engage in meaningful interactions and relationships with all stakeholders. You put end-users first and can manage competing priorities.
 
 - **Inclusive design mindset**. You embrace accessibility requirements as a set of design constraints that help you create better products and services for all users. You have a basic understanding of the main categories of disabilities, limitations, or constraints that affect how people use digital services. You look for ways that making products and services easier to use for people with disabilities also improves the experience for everyone, applying the concept of progressive enhancement to cover a spectrum of engagement levels.
-
-## Levels for this role
-* [Junior](junior-ux-designer-role-level.md)
-* [Mid-Level](mid-level-ux-designer-role-level.md)
-* [Senior](senior-ux-designer-role-level.md)
-* [Lead](lead-ux-designer-role-level.md)
-
-[Back to About this framework](about-this-framework.md)

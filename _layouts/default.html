@@ -6,6 +6,7 @@
   <meta http-equiv="X-UA-Compatible" content="IE=edge" />
   <title>Home</title>
   <link rel="stylesheet" href="{{ '/assets/uswds-2.8.1/css/uswds.min.css' | relative_url }}" />
+  <link rel="stylesheet" href="{{ '/assets/css/tweaks.css' | relative_url }}" />
 </head>
 
 <body>
@@ -19,28 +20,31 @@
         <button class="usa-menu-btn">Menu</button>
       </div>
       <nav aria-label="Primary navigation" class="usa-nav">
-        <button class="usa-nav__close"><img src="../../dist/img/close.svg" role="img" alt="close"></button>
+        <button class="usa-nav__close"><img src="{{ '/assets/img/close.svg' | relative_url }}" role="img" alt="close"></button>
         <ul class="usa-nav__primary usa-accordion">
           <li class="usa-nav__primary-item">
-            <a class="usa-nav__link" href="/humans/"><span>On Humans</span></a>
+            <a class="usa-nav__link{% if page.nav == 'humans' %} usa-current{% endif %}" href="/humans/"><span>On Humans</span></a>
           </li>
           <li class="usa-nav__primary-item">
-            <a class="usa-nav__link" href="/machines/"><span>On Machines</span></a>
+            <a class="usa-nav__link{% if page.nav == 'machines' %} usa-current{% endif %}" href="/machines/"><span>On Machines</span></a>
           </li>
           <li class="usa-nav__primary-item">
-            <a class="usa-nav__link {% if page.nav == 'capabilities' %}usa-current{% endif %}" href="/capabilities/"><span>Capabilities</span></a>
+            <a class="usa-nav__link{% if page.nav == 'capabilities' %} usa-current{% endif %}" href="/capabilities/"><span>Capabilities</span></a>
           </li>
         </ul>
       </nav>
     </div>
   </header>
 
-<div class="usa-section">
+<section class="brand-banner"></section>
+
+<div class="usa-section padding-top-2">
 
   <div class="grid-container">
     <div class="grid-row">
       <div class="grid-col-fill"></div>
       <div class="grid-col-8 usa-prose">
+        <small class="text-base">{{page.permalink}}</small>
         {{ content }}
       </div>
       <div class="grid-col-fill"></div>
@@ -48,7 +52,7 @@
   </div>
 
 </div>
-  <script src="assets/uswds-2.8.1/js/uswds.min.js"></script>
+  <script src="/assets/uswds-2.8.1/js/uswds.min.js"></script>
 </body>
 
 </html>
