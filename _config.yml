@@ -3,4 +3,4 @@ description: Practices and expectations of UX designers and researchers at Bixal
 
 
 baseurl: "/" # the subpath of your site, e.g. /blog
-url: "https://bixal.github.io/bixal-uxd-team-handbook/" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://bixal.github.io/bixal-uxd-team-handbook" # the base hostname & protocol for your site, e.g. http://example.com
