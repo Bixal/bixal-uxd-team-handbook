@@ -40,7 +40,7 @@ By our powers combined…
 
 - On our team, we set goals for ourselves, either by quarter or by year.
 - At Bixal, there is a yearly performance review process.
-- We've started to define what career paths for the UX Design Team looks like in the [Capability Framework](/capabilities/).
+- We've started to define what career paths for the UX Design Team looks like in the [Capability Framework]({{site.baseurl}}/capabilities/).
 
 ## Location
 
