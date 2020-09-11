@@ -36,7 +36,7 @@
 }
 
 .brand-banner {
-  background-image: url('{{site.url}}/assets/images/img-whatwedo-44aa6269e4baa58fdf5431a0aeac5d28.jpg');
+  background-image: url('{{site.baseurl}}/assets/images/img-whatwedo-44aa6269e4baa58fdf5431a0aeac5d28.jpg');
   min-height: 12rem;
   height: 12rem;
   margin-top: .5rem;
@@ -54,7 +54,7 @@
 }
 
 .usa-logo__text::before {
-  background-image: url('/assets/images/img-whatwedo-44aa6269e4baa58fdf5431a0aeac5d28.jpg');
+  background-image: url('{{site.baseurl}}/assets/images/img-whatwedo-44aa6269e4baa58fdf5431a0aeac5d28.jpg');
 }
 
 .usa-current:after {
