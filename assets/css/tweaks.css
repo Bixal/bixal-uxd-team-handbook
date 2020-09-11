@@ -54,10 +54,10 @@
 }
 
 .usa-logo__text::before {
-  background-image: url('{{site.baseurl}}/assets/images/img-whatwedo-44aa6269e4baa58fdf5431a0aeac5d28.jpg');
+  background-image: url('{{site.baseurl}}/assets/images/b-whatwedo.svg');
 }
 
-.usa-current:after {
+.usa-current::after {
   background-color: #06c5bc !important;
 }
 
