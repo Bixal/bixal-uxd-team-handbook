@@ -6,8 +6,8 @@
   <meta http-equiv="X-UA-Compatible" content="IE=edge" />
   <meta name="description" content="The purpose of this tool is to collaborate on and document and the practices and expectations of the UX Design Team at Bixal.">
   <title>Bixal UX Design Team Handbook</title>
-  <link rel="stylesheet" href="/assets/uswds-2.8.1/css/uswds.min.css" />
-  <link rel="stylesheet" href="/assets/css/tweaks.css" />
+  <link rel="stylesheet" href="{{ site.baseurl }}/assets/uswds-2.8.1/css/uswds.min.css" />
+  <link rel="stylesheet" href="{{ site.baseurl }}/assets/css/tweaks.css" />
 </head>
 
 <body>
@@ -21,7 +21,7 @@
         <button class="usa-menu-btn">Menu</button>
       </div>
       <nav aria-label="Primary navigation" class="usa-nav">
-        <button class="usa-nav__close"><img src="/assets/img/close.svg" role="img" alt="close"></button>
+        <button class="usa-nav__close"><img src="{{ site.baseurl }}/assets/img/close.svg" role="img" alt="close"></button>
         <ul class="usa-nav__primary usa-accordion">
           <li class="usa-nav__primary-item">
             <a class="usa-nav__link{% if page.nav == 'humans' %} usa-current{% endif %}" href="/humans/"><span>On Humans</span></a>
@@ -38,7 +38,7 @@
   </header>
 
 <section class="brand-banner">
-  <img src="/assets/images/b-whatwedo.svg" height="240">
+  <img src="{{ site.baseurl }}/assets/images/b-whatwedo.svg" height="240">
 </section>
 
 <div class="usa-section padding-top-2">
@@ -55,7 +55,7 @@
   </div>
 
 </div>
-  <script src="/assets/uswds-2.8.1/js/uswds.min.js"></script>
+  <script src="{{ site.baseurl }}/assets/uswds-2.8.1/js/uswds.min.js"></script>
 </body>
 
 </html>
