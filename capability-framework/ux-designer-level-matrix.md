@@ -5,7 +5,7 @@ permalink: /capabilities/ux-designer-level-matrix/
 ---
 # UX Designer Level Matrix
 
-This matrix outlines the combination of [skill levels](skill-levels.md) that define the role levels within the [UX Designer role](ux-designer-role-overview.md).
+This matrix outlines the combination of [skill levels](capabilities/skill-levels) that define the role levels within the [UX Designer role](capabilities/ux-designer-role-overview).
 
 ## Junior UX Designer
 
@@ -22,7 +22,7 @@ This matrix outlines the combination of [skill levels](skill-levels.md) that def
 | Human-centered | Working |
 | Inclusive design mindset | Awareness |
 
-See [role description for Junior UX Designer](junior-ux-designer-role-level.md)
+See [role description for Junior UX Designer](capabilities/junior-ux-designer-role-level)
 
 ## (Mid-Level) UX Designer
 
@@ -39,7 +39,7 @@ See [role description for Junior UX Designer](junior-ux-designer-role-level.md)
 | Human-centered | Practitioner |
 | Inclusive design mindset | Practitioner |
 
-See [role description for (Mid-Level) UX Designer](mid-level-ux-designer-role-level.md)
+See [role description for (Mid-Level) UX Designer](capabilities/mid-level-ux-designer-role-level)
 
 ## Senior UX Designer
 
@@ -56,7 +56,7 @@ See [role description for (Mid-Level) UX Designer](mid-level-ux-designer-role-le
 | Human-centered | Expert |
 | Inclusive design mindset | Practitioner |
 
-See [role description for Senior UX Designer](senior-ux-designer-role-level.md)
+See [role description for Senior UX Designer](capabilities/senior-ux-designer-role-level)
 
 ## Lead UX Designer
 
@@ -73,4 +73,4 @@ See [role description for Senior UX Designer](senior-ux-designer-role-level.md)
 | Human-centered | Expert |
 | Inclusive design mindset | Expert |
 
-See [role description for Senior UX Designer](lead-ux-designer-role-level.md)
+See [role description for Senior UX Designer](capabilities/lead-ux-designer-role-level)

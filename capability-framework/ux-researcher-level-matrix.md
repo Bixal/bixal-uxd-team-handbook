@@ -6,7 +6,7 @@ permalink: /capabilities/ux-researcher-level-matrix/
 
 # UX Researcher Level Matrix
 
-This matrix outlines the combination of [skill levels](skill-levels.md) that define the role levels within the [UX Researcher role](ux-researcher-role-overview.md).
+This matrix outlines the combination of [skill levels](capabilities/skill-levels) that define the role levels within the [UX Researcher role](capabilities/ux-researcher-role-overview).
 
 ## Junior UX Researcher
 
@@ -20,7 +20,7 @@ This matrix outlines the combination of [skill levels](skill-levels.md) that def
 | Technical understanding | Awareness |
 | Human-centered and agile practices | Awareness |
 
-See [role description for Junior UX Researcher](junior-ux-researcher-role-level.md)
+See [role description for Junior UX Researcher](capabilities/junior-ux-researcher-role-level)
 
 ## (Mid-Level) UX Researcher
 
@@ -34,7 +34,7 @@ See [role description for Junior UX Researcher](junior-ux-researcher-role-level.
 | Technical understanding | Working |
 | Human-centered and agile practices | Working |
 
-See [role description for (Mid-Level) UX Researcher](mid-level-ux-researcher-role-level.md)
+See [role description for (Mid-Level) UX Researcher](capabilities/mid-level-ux-researcher-role-level)
 
 ## Senior UX Researcher
 
@@ -48,7 +48,7 @@ See [role description for (Mid-Level) UX Researcher](mid-level-ux-researcher-rol
 | Technical understanding | Practitioner |
 | Human-centered and agile practices | Practitioner |
 
-See [role description for Senior UX Researcher](senior-ux-researcher-role-level.md)
+See [role description for Senior UX Researcher](capabilities/senior-ux-researcher-role-level)
 
 ## Lead UX Researcher
 
@@ -62,4 +62,4 @@ See [role description for Senior UX Researcher](senior-ux-researcher-role-level.
 | Technical understanding | Practitioner |
 | Human-centered and agile practices | Practitioner |
 
-See [role description for Lead UX Researcher](lead-ux-researcher-role-level.md)
+See [role description for Lead UX Researcher](capabilities/lead-ux-researcher-role-level)
