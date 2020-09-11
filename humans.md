@@ -40,7 +40,7 @@ By our powers combined…
 
 - On our team, we set goals for ourselves, either by quarter or by year.
 - At Bixal, there is a yearly performance review process.
-- We've started to define what career paths for the UX Design Team looks like in the [Capability Framework]({{site.baseurl}}/capabilities/).
+- We've started to define what career paths for the UX Design Team looks like in the [Capability Framework](/capabilities/).
 
 ## Location
 
@@ -66,7 +66,7 @@ Let’s be good stewards of other people’s time.
 - If there are any links (for example, documents or web conference), make sure they are active so people can click them.
 - When scheduling a meeting, first check people’s calendars. Then, unless they’re already expecting to hear from you, check with them directly if they have time. (Don’t assume an open time slot means it’s yours for the taking.)
 
-To make this easier, consider using the [Mindful Meeting Template](https://pglevy.github.io/mindful-meeting-invitation/site/index.html) or something like it.
+To make this easier, consider using the [Mindful Meeting Template](https://pglevy.github.io/mindful-meeting-invitation/) or something like it.
 
 ## Monthly Workshops
 
