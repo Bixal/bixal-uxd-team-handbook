@@ -9,57 +9,53 @@ permalink: /capabilities/ux-researcher-level-matrix/
 This matrix outlines the combination of [skill levels](../skill-levels) that define the role levels within the [UX Researcher role](../ux-researcher-role-overview).
 
 ## Junior UX Researcher
+Good working knowledge with the ability to apply the practice without guidance in at least two skills.
 
 | Skill | Level |
 | --- | --- |
-| Analysis and synthesis | Working |
-| Inclusive research | Awareness |
-| Research skills | Working |
-| Society and technology | Awareness |
-| Strategic insight | Awareness |
-| Technical understanding | Awareness |
-| Human-centered and agile practices | Awareness |
-
-See [role description for Junior UX Researcher](capabilities/junior-ux-researcher-role-level)
+| Analysis and synthesis | Applying |
+| Inclusive research | Knowing |
+| Research skills | Applying |
+| Society and technology | Knowing |
+| Strategic insight | Knowing |
+| Technical understanding | Knowing |
+| Human-centered and agile practices | Knowing |
 
 ## (Mid-Level) UX Researcher
+Solidly independent ability to apply the practice across all skills.
 
 | Skill | Level |
 | --- | --- |
-| Analysis and synthesis | Working |
-| Inclusive research | Working |
-| Research skills | Working |
-| Society and technology | Working |
-| Strategic insight | Working |
-| Technical understanding | Working |
-| Human-centered and agile practices | Working |
-
-See [role description for (Mid-Level) UX Researcher](capabilities/mid-level-ux-researcher-role-level)
+| Analysis and synthesis | Applying |
+| Inclusive research | Applying |
+| Research skills | Applying |
+| Society and technology | Applying |
+| Strategic insight | Applying |
+| Technical understanding | Applying |
+| Human-centered and agile practices | Applying |
 
 ## Senior UX Researcher
+An experienced contributor sharing knowledge and experience of the practice with others in at least two of the skills.
 
 | Skill | Level |
 | --- | --- |
-| Analysis and synthesis | Practitioner |
-| Inclusive research | Practitioner |
-| Research skills | Practitioner |
-| Society and technology | Working |
-| Strategic insight | Working |
-| Technical understanding | Practitioner |
-| Human-centered and agile practices | Practitioner |
-
-See [role description for Senior UX Researcher](capabilities/senior-ux-researcher-role-level)
+| Analysis and synthesis | Sharing |
+| Inclusive research | Sharing |
+| Research skills | Sharing |
+| Society and technology | Applying |
+| Strategic insight | Applying |
+| Technical understanding | Sharing |
+| Human-centered and agile practices | Sharing |
 
 ## Lead UX Researcher
+A recognized leader, guiding others in best-practice in at least two of the skills.
 
 | Skill | Level |
 | --- | --- |
-| Analysis and synthesis | Expert |
-| Inclusive research | Practitioner |
-| Research skills | Expert |
-| Society and technology | Practitioner |
-| Strategic insight | Practitioner |
-| Technical understanding | Practitioner |
-| Human-centered and agile practices | Practitioner |
-
-See [role description for Lead UX Researcher](capabilities/lead-ux-researcher-role-level)
+| Analysis and synthesis | Guiding |
+| Inclusive research | Sharing |
+| Research skills | Guiding |
+| Society and technology | Sharing |
+| Strategic insight | Sharing |
+| Technical understanding | Sharing |
+| Human-centered and agile practices | Sharing |
