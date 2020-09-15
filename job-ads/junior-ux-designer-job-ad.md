@@ -1,3 +1,9 @@
+---
+layout: default
+nav: capabilities
+permalink: /capabilities/job-ads/junior-ux-designer-job-ad/
+---
+
 # Junior UX Designer
 
 ## Who we are
@@ -44,7 +50,7 @@ Additionally, as a member of the core design team, you may work on more than one
 
 ## Skills
 
-See [role level description](../capability-framework/junior-ux-designer-role-level.md).
+See [role level description](../../junior-ux-designer-role-level).
 
 ## Perks/Benefits
 [default content]
