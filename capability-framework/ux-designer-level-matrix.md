@@ -5,7 +5,7 @@ permalink: /capabilities/ux-designer-level-matrix/
 ---
 # UX Designer Level Matrix
 
-This matrix outlines the combination of [skill levels](capabilities/skill-levels) that define the role levels within the [UX Designer role](capabilities/ux-designer-role-overview).
+This matrix outlines the combination of [skill levels](../skill-levels) that define the role levels within the [UX Designer role](../ux-designer-role-overview).
 
 ## Junior UX Designer
 A balance of working independently and working with guidance from more experienced team members. About a 50/50 split.

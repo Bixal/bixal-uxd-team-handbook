@@ -5,6 +5,4 @@ description: Practices and expectations of UX designers and researchers at Bixal
 
 # the base hostname & protocol for your site, e.g. http://example.com
 # live
-baseurl: "https://bixal.github.io/bixal-uxd-team-handbook"
-# development
-# baseurl: "/"
+# baseurl: "https://bixal.github.io/bixal-uxd-team-handbook"
