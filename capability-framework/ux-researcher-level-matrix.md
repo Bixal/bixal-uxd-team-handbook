@@ -6,7 +6,7 @@ permalink: /capabilities/ux-researcher-level-matrix/
 
 # UX Researcher Level Matrix
 
-This matrix outlines the combination of [skill levels](capabilities/skill-levels) that define the role levels within the [UX Researcher role](capabilities/ux-researcher-role-overview).
+This matrix outlines the combination of [skill levels](../skill-levels) that define the role levels within the [UX Researcher role](../ux-researcher-role-overview).
 
 ## Junior UX Researcher
 
