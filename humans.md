@@ -62,13 +62,29 @@ By our powers combined…
 - Each week it's [someone's responsibility to facilitate an activity or presentation](https://teams.microsoft.com/l/entity/com.microsoft.teamspace.tab.wiki/tab::3c9e4090-dfc4-4f29-b62e-8248637176d8?context=%7B%22subEntityId%22%3A%22%7B%5C%22pageId%5C%22%3A10%2C%5C%22origin%5C%22%3A2%7D%22%2C%22channelId%22%3A%2219%3Ae9789c9680aa4e948de9f5a97ecb878c%40thread.skype%22%7D&tenantId=31448150-d5ea-4e0e-bf63-51be057306d3).
 - If it's your week and you can't make it, find someone to swap with.
 
-## Goals, Performance, and Paths
+## Intentions & Capabilities
 
 “If you aim at nothing, you’ll hit it every time.”
 
-- On our team, we set goals for ourselves, either by quarter or by year.
+- We set *intentions* for ourselves to document ways in which we want to progress within our practice and careers.
+- We also use a [Capability Framework](capabilities/) to assess our progress within specific skillsets for each role.
 - At Bixal, there is a yearly performance review process.
-- We've started to define what career paths for the UX Design Team looks like in the [Capability Framework](capabilities/).
+
+### Intentions
+Intentions follow the why-how-what framework from Simon Sinek's Golden Circle. These are the basic questions, as applied to an individual context:
+
+- Why am I here? (purpose)
+- How will I further my why? (outcome)
+- What specifically will I do to demonstrate how I am doing? (output)
+
+### Capabilities
+The capability framework is based on the [UK.gov Service Manual](https://www.gov.uk/service-manual) and has been adapted for use on our team. It can be used in the following ways:
+
+- Understand what skills are needed to do a particular job.
+- Identify skills needed to progress to the next level within a job.
+- Assess progression of skill development as part of performance reviews.
+- Create job ads to recruit for UX Design jobs.
+- Plan staffing needs for current and upcoming projects.
 
 ## Location
 
