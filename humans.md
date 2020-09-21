@@ -121,9 +121,7 @@ One-on-ones ensure that you have a dedicated opportunity to sync-up with your ma
 
 We have an "unlimited PTO policy." Don't forget to use it!
 
-See the Employee Handbook for the full details and procedures. Just a couple of things to add here:
-- Remember to add your Out Of Office invites to the Design calendar for visibility. You can do this by inviting Design (in our company directory) to the invite on your calendar. (Nobody gets these emails. Please don't invite others to your PTO unless you _really_ want them attend.)
-- Put a reminder in the Admin channel in Teams to remind people.
+See the Employee Handbook for the full details and procedures. Both the handbook and a PTO request procedure diagram are available in Paylocity.
 
 ## Timesheets
 
