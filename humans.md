@@ -26,6 +26,34 @@ Design requires time to think and make things. Set some reasonable boundaries to
 - Unless it’s really your thing, try to avoid the [sad desk lunch](https://saddesklunch.com/what).
 - Ignore presence status indicators. (When you’re not expecting an immediate response, they don’t matter anyway.)
 
+## Design Duos
+It takes two to make a thing go right…
+
+By establishing a rotation of collaboration pairs, we can better leverage the spectrum of knowledge and experience across the team to support each other in project work and general practice growth.
+
+The goal is that periodic sharing and feedback between pairs will enable a deeper understanding of each other’s project contexts and lead to more meaningful and actionable feedback.
+
+### Timing & Scheduling
+- Duos are encouraged to meet weekly, for between 30 and 60 minutes.
+- Duos should coordinate their own schedules.
+- Duos can decide whether to each share their work in the same session or alternate sessions.
+- You should bill time to the project you're sharing work for, even when you're providing feedback on the other person's work.
+  - If the work you're sharing is outside of a billable project, you can bill to "1. Design Research and Training" in BIXAL DESIGN.TEAM.
+- The plan is to rotate duos about quarterly.
+
+### Feedback Format & Guidance
+The format of these collaboration sessions can be left open, but here are some things to include when seeking feedback:
+- What is the background of the project?
+  - What are they trying to accomplish? (This should be found in the project brief.)
+- What assumptions or data is your approach based on?
+  - Who have you talked to? What data have you had access to?
+  - What are you missing or not even thinking about?
+- What have you tried already?
+  - What previous iterations have you worked through or moved beyond?
+- What level of feedback are you looking for?
+  - Are you looking for input on overall approach or nitty-gritty details?
+
+
 ## Design Team Sync-Up
 
 By our powers combined…
