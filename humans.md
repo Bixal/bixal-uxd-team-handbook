@@ -131,12 +131,6 @@ See the Employee Handbook for the full details and procedures. Just a couple of 
 
 See section 7 in the Employee Handbook on "Timekeeping Policies." One thing to add: If you make a change after the initial submission, please remind your manager to go back in and re-approve. There are no system reminders that this needs to happen, only urgent emails and chat from people trying to process payroll.
 
-## Weekly Lunch Hour Huddle
-
-What's for lunch?
-
-As we've shifted to being fully distributed, the idea behind this is to carve out some time to get together and just chat about whatever, work or non-work. No pressure to share, talk, or even show up. It's there if you need it.
-
 ## Working with the Project Team
 
 We value co-create and collaboration, so we try to think about how we can incorporate the whole project team as much as possible.
