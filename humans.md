@@ -111,11 +111,11 @@ Monthly workshops give us a chance to align on our practices across projects and
 
 ## One-On-Ones
 
-One-on-ones ensure that you have a dedicated, recurring opportunity to sync-up with your manager.
+One-on-ones ensure that you have a dedicated opportunity to sync-up with your manager.
 
+- Since we've introduced Design Duos, there are "office hours" blocked off for manager one-on-ones, but they are scheduled on an ad-hoc basis.
 - This is your time to raise any questions or concerns you have about anything. You control the agenda.
 - It’s not necessarily a “what are you working on” check-in, though feel free to raise topics relating to projects and project work.
-- If a scheduling conflict comes up, try to reschedule instead of skipping it.
 
 ## Paid Time Off
 
