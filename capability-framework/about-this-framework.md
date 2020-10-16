@@ -2,6 +2,8 @@
 layout: default
 nav: capabilities
 permalink: /capabilities/
+redirect_from:
+    - /capability-framework/about-this-framework.html
 ---
 
 # Capability Framework
