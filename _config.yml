@@ -1,6 +1,8 @@
 title: Bixal UX Design Team Handbook
 description: Practices and expectations of UX designers and researchers at Bixal
 
+plugins:
+  - jekyll-redirect-from
 
 
 # the base hostname & protocol for your site, e.g. http://example.com
