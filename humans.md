@@ -150,15 +150,15 @@ For anything related to projects you’re actively engaged in and billing to, ch
 ### Design Team
 Since there are no more “general overhead” billing codes, work that practice-related but not project-specific should fall under one of these tasks:
 
-1. Design Research and Training: general practice enrichment that doesn’t related directly to a project or official corporate design project. This could be things like articles you read and share or occasional webinars. It also includes internal practice efforts like contributing to Bixal Methods.
-2. General Project Related Support/Meetings: temporarily help on a project that you’re not actively engaged with or billing to.
-3. General Design Team Management: administrative, non-projects tasks like planning or timesheets. For managers, efforts related to supporting the design team or practice area.
-4. Corporate Design Projects (other than branding): mostly for the Visual Design team, official internal projects that are not branding-related.
-5. Workshop and Team Building: group activities, like the Design Sync, UX Workshop, or Design Duos.
-6. One-on-One Meetings: one-on-ones with managers.
-7. Security: security clearance activities or support tasks relating to security, such as software updates or training.
-8. Leadership Meetings: mostly for managers, meetings about leader-y things.
-9. Monthly All Hands Meetings: monthly all hands meetings.
+1. **Design Research and Training**: general practice enrichment that doesn’t related directly to a project or official corporate design project. This could be things like articles you read and share or occasional webinars. It also includes internal practice efforts like contributing to Bixal Methods.
+2. **General Project Related Support/Meetings**: temporarily help on a project that you’re not actively engaged with or billing to.
+3. **General Design Team Management**: administrative, non-projects tasks like planning or timesheets. For managers, efforts related to supporting the design team or practice area.
+4. **Corporate Design Projects (other than branding)**: mostly for the Visual Design team, official internal projects that are not branding-related.
+5. **Workshop and Team Building**: group activities, like the Design Sync, UX Workshop, or Design Duos.
+6. **One-on-One Meetings**: one-on-ones with managers.
+7. **Security**: security clearance activities or support tasks relating to security, such as software updates or training.
+8. **Leadership Meetings**: mostly for managers, meetings about leader-y things.
+9. **Monthly All Hands Meetings**: monthly all hands meetings.
 
 ### Corporate
 Outside of projects and the practice, there are some additional corporate categories. This does not necessarily include everything, so if you don’t see something here or have a question, just ask.
