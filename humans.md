@@ -135,7 +135,7 @@ One-on-ones ensure that you have a dedicated opportunity to sync-up with your ma
 
 ## Paid Time Off
 
-We have an "unlimited PTO policy." Don't forget to use it!
+We have a "generous PTO policy." In general, it includes 5 weeks total for both vacation and sick leave. Don't forget to use it!
 
 See the Employee Handbook for the full details and procedures. Both the handbook and a PTO request procedure diagram are available in Paylocity.
 
