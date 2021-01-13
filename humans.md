@@ -143,7 +143,35 @@ See the Employee Handbook for the full details and procedures. Both the handbook
 
 "where time becomes a loop… where time becomes a loop…"
 
-See section 7 in the Employee Handbook on "Timekeeping Policies." One thing to add: If you make a change after the initial submission, please remind your manager to go back in and re-approve. There are no system reminders that this needs to happen, only urgent emails and chat from people trying to process payroll.
+
+### Projects
+For anything related to projects you’re actively engaged in and billing to, charge to the project code provided by the project manager.
+
+### Design Team
+Since there are no more “general overhead” billing codes, work that practice-related but not project-specific should fall under one of these tasks:
+
+1. Design Research and Training: general practice enrichment that doesn’t related directly to a project or official corporate design project. This could be things like articles you read and share or occasional webinars. It also includes internal practice efforts like contributing to Bixal Methods.
+2. General Project Related Support/Meetings: temporarily help on a project that you’re not actively engaged with or billing to.
+3. General Design Team Management: administrative, non-projects tasks like planning or timesheets. For managers, efforts related to supporting the design team or practice area.
+4. Corporate Design Projects (other than branding): mostly for the Visual Design team, official internal projects that are not branding-related.
+5. Workshop and Team Building: group activities, like the Design Sync, UX Workshop, or Design Duos.
+6. One-on-One Meetings: one-on-ones with managers.
+7. Security: security clearance activities or support tasks relating to security, such as software updates or training.
+8. Leadership Meetings: mostly for managers, meetings about leader-y things.
+9. Monthly All Hands Meetings: monthly all hands meetings.
+
+### Corporate
+Outside of projects and the practice, there are some additional corporate categories. This does not necessarily include everything, so if you don’t see something here or have a question, just ask.
+
+- BIXAL BUSINESS.DEVELOPMENT: support for an RFI, RFQ, workshop, or similar business opportunity activity. Not there are different tasks that you may need to be added to depending on the situation.
+- BIXAL RECRUITING: support for hiring activities such as interviews or resume/portfolio reviews. Note there are different tasks for proposals vs. current contracts.
+- BIXAL BIXAL.BRANDING: support for Bixal.com or other marketing and branding activities.
+- BIXAL PROFESSIONAL.DEVELOPMENT.2021: approved professional development activities.
+
+### More Information
+See section 7 in the Employee Handbook on "Timekeeping Policies."
+
+*One thing to add*: If you make a change after the initial submission, please remind your manager to go back in and re-approve. There are no system reminders that this needs to happen, only urgent emails and chat from people trying to process payroll.
 
 ## Working with the Project Team
 
