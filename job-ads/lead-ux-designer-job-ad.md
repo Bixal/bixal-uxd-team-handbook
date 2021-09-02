@@ -1,4 +1,10 @@
-# Senior UX Designer
+---
+layout: default
+nav: capabilities
+permalink: /capabilities/job-ads/lead-ux-designer-job-ad/
+---
+
+# Lead UX Designer
 
 ## Who we are
 [default content]
@@ -45,7 +51,7 @@ Additionally, as a member of the core design team, you may work on more than one
 - Must be able to obtain Public Trust clearance.
 
 ## Skills
-See [role level description](../capability-framework/lead-ux-designer-role-level.md).
+See [role level description](../../lead-ux-designer-role-level.md).
 
 ## Perks/Benefits
 [default content]

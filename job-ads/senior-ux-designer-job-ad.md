@@ -1,3 +1,9 @@
+---
+layout: default
+nav: capabilities
+permalink: /capabilities/job-ads/senior-ux-designer-job-ad/
+---
+
 # Senior UX Designer
 
 ## Who we are
@@ -45,7 +51,7 @@ Additionally, as a member of the core design team, you may work on more than one
 - Must be able to obtain Public Trust clearance.
 
 ## Skills
-See [role level description](../capability-framework/senior-ux-designer-role-level.md).
+See [role level description](../../senior-ux-designer-role-level.md).
 
 ## Perks/Benefits
 [default content]
