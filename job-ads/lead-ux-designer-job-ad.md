@@ -51,7 +51,7 @@ Additionally, as a member of the core design team, you may work on more than one
 - Must be able to obtain Public Trust clearance.
 
 ## Skills
-See [role level description](../../lead-ux-designer-role-level.md).
+See [skills level matrix](../../ux-designer-level-matrix/#lead-ux-designer).
 
 ## Perks/Benefits
 [default content]
