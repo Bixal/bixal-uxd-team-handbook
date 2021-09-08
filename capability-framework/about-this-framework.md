@@ -23,6 +23,7 @@ It can be used in the following ways:
 - [UX Researcher Role Overview and Level Descriptions](ux-researcher-role-overview)
 - [UX Researcher Level Matrix](ux-researcher-level-matrix)
 - [Skill Level Descriptions](skill-levels)
+- [Job Ads](job-ads)
 
 For more details on the terminology used throughout this framework, see the [Glossary](glossary).
 
