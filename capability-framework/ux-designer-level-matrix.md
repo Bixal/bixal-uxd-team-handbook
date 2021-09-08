@@ -23,7 +23,7 @@ Basic knowledge of the role and general interest and enthusiam about learning mo
 | Human-centered | Knowing |
 | Inclusive design mindset | Knowing |
 
-## Junior UX Designer
+## [Junior UX Designer](../job-ads/junior-ux-designer-job-ad/)
 A balance of working independently and working with guidance from more experienced team members. About a 50/50 split.
 
 | Skill | Level |
@@ -39,7 +39,7 @@ A balance of working independently and working with guidance from more experienc
 | Human-centered | Applying |
 | Inclusive design mindset | Knowing |
 
-## (Mid-Level) UX Designer
+## [(Mid-Level) UX Designer](../job-ads/mid-level-ux-designer-job-ad/)
 Solidly independent and sharing knowledge and experience with others that they can apply or adopt in their work. About a 50/50 split.
 
 | Skill | Level |
@@ -55,7 +55,7 @@ Solidly independent and sharing knowledge and experience with others that they c
 | Human-centered | Sharing |
 | Inclusive design mindset | Sharing |
 
-## Senior UX Designer
+## [Senior UX Designer](../job-ads/senior-ux-designer-job-ad/)
 An experienced contributor guiding others with expert-level knowledge and experience in two or three skills. Sharing in nearly all others.
 
 | Skill | Level |
@@ -71,7 +71,7 @@ An experienced contributor guiding others with expert-level knowledge and experi
 | Human-centered | Guiding |
 | Inclusive design mindset | Sharing |
 
-## Lead UX Designer
+## [Lead UX Designer](../job-ads/lead-ux-designer-job-ad/)
 A recognized leader, guiding others in best-practice in at least 70% of the skills.
 
 | Skill | Level |
