@@ -4,7 +4,7 @@ nav: capabilities
 permalink: /capabilities/job-ads/mid-level-ux-designer-job-ad/
 ---
 
-# UX Designer (Mid-Level)
+# UX Designer (Mid-Level) Job Ad
 
 ## Who we are
 [default content]

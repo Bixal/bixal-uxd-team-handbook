@@ -4,7 +4,7 @@ nav: capabilities
 permalink: /capabilities/job-ads/lead-ux-designer-job-ad/
 ---
 
-# Lead UX Designer
+# Lead UX Designer Job Ad
 
 ## Who we are
 [default content]

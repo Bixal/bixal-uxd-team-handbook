@@ -4,7 +4,7 @@ nav: capabilities
 permalink: /capabilities/job-ads/senior-ux-designer-job-ad/
 ---
 
-# Senior UX Designer
+# Senior UX Designer Job Ad
 
 ## Who we are
 [default content]

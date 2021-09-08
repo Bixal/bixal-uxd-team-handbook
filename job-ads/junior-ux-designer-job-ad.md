@@ -4,7 +4,7 @@ nav: capabilities
 permalink: /capabilities/job-ads/junior-ux-designer-job-ad/
 ---
 
-# Junior UX Designer
+# Junior UX Designer Job Ad
 
 ## Who we are
 [default content]
