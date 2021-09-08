@@ -7,6 +7,22 @@ permalink: /capabilities/ux-designer-level-matrix/
 
 This matrix outlines the combination of [skill levels](../skill-levels) that define the role levels within the [UX Designer role](../ux-designer-role-overview).
 
+## [UX Design Intern](../job-ads/ux-design-intern-job-ad/)
+Basic knowledge of the role and general interest and enthusiam about learning more.
+
+| Skill | Level |
+| --- | --- |
+| Agile mindset | Knowing |
+| Communication | Knowing |
+| Team collaboration | Knowing |
+| Evidence- and context-based design | Knowing |
+| Working within constraints | Knowing |
+| Leadership and guidance | Knowing |
+| Prototyping | Knowing |
+| Strategic thinking | Knowing |
+| Human-centered | Knowing |
+| Inclusive design mindset | Knowing |
+
 ## Junior UX Designer
 A balance of working independently and working with guidance from more experienced team members. About a 50/50 split.
 
