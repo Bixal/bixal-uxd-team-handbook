@@ -15,7 +15,7 @@ These are templates for creating job ads for each role to have a consistent star
 - [Senior](senior-ux-designer-job-ad)
 - [Lead](lead-ux-designer-job-ad)
 
-## UX Designer Roles
+## UX Researcher Roles
 - [Intern](ux-research-intern-job-ad)
 - [Junior](junior-ux-researcher-job-ad)
 - [Mid-Level](mid-level-ux-researcher-job-ad)
